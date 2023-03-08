@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_graph">
+
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="felcon9.canonical.forester.gumanistically.game.LibGDXFragment"
+        android:label="GameFragment" />
+
+    <fragment
+        android:id="@+id/webViewFragment"
+        android:name="felcon9.canonical.forester.gumanistically.webView.WebViewFragment"
+        android:label="WebViewFragment"/>
+
+</navigation>

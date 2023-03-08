@@ -1,0 +1,110 @@
+game.png
+size: 1558, 197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_1
+  rotate: false
+  xy: 2, 2
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: 1
+_3
+  rotate: false
+  xy: 56, 2
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: 3
+_5
+  rotate: false
+  xy: 110, 2
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: 5
+balk_def
+  rotate: false
+  xy: 164, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+balk_press
+  rotate: false
+  xy: 186, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 208, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+btn_def
+  rotate: false
+  xy: 250, 2
+  size: 313, 193
+  orig: 313, 193
+  offset: 0, 0
+  index: -1
+btn_dis
+  rotate: false
+  xy: 565, 2
+  size: 313, 193
+  orig: 313, 193
+  offset: 0, 0
+  index: -1
+minus_def
+  rotate: false
+  xy: 880, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+minus_dis
+  rotate: false
+  xy: 954, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+play_def
+  rotate: false
+  xy: 1028, 2
+  size: 168, 165
+  orig: 168, 165
+  offset: 0, 0
+  index: -1
+play_dis
+  rotate: false
+  xy: 1198, 2
+  size: 168, 165
+  orig: 168, 165
+  offset: 0, 0
+  index: -1
+plus_def
+  rotate: false
+  xy: 1368, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+plus_dis
+  rotate: false
+  xy: 1442, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+shader
+  rotate: false
+  xy: 1516, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

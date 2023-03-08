@@ -1,0 +1,82 @@
+game.png
+size: 984, 532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow_down
+  rotate: false
+  xy: 2, 2
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+arrow_up
+  rotate: false
+  xy: 33, 2
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+aviator
+  rotate: false
+  xy: 64, 2
+  size: 520, 154
+  orig: 520, 154
+  offset: 0, 0
+  index: -1
+btn-1
+  rotate: false
+  xy: 586, 2
+  size: 365, 97
+  orig: 365, 97
+  offset: 0, 0
+  index: -1
+btn-2
+  rotate: false
+  xy: 2, 158
+  size: 385, 97
+  orig: 385, 97
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 389, 158
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 488, 158
+  size: 234, 95
+  orig: 234, 95
+  offset: 0, 0
+  index: -1
+target
+  rotate: false
+  xy: 724, 158
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+title_menu
+  rotate: false
+  xy: 2, 260
+  size: 556, 180
+  orig: 556, 180
+  offset: 0, 0
+  index: -1
+title_result
+  rotate: false
+  xy: 560, 260
+  size: 422, 168
+  orig: 422, 168
+  offset: 0, 0
+  index: -1
+try
+  rotate: false
+  xy: 2, 442
+  size: 234, 88
+  orig: 234, 88
+  offset: 0, 0
+  index: -1
